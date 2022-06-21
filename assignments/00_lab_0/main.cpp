@@ -2,7 +2,7 @@
 #include <iomanip>
 
 //------------------------------------------------------------------------------
-#include "includes/stub/stub.h"
+// #include "includes/stub/stub.h"
 
 
 
@@ -26,14 +26,14 @@ int main()
 }
 
 
-void basic_test(bool debug)
-{
-  if (stub()) {
-    cout << "Passed!" << endl;
-  } else {
-    cout << "Failed!" << endl;
-  }
-}
+// void basic_test(bool debug)
+// {
+//   if (stub()) {
+//     cout << "Passed!" << endl;
+//   } else {
+//     cout << "Failed!" << endl;
+//   }
+// }
 
 /*
 folder structure:
