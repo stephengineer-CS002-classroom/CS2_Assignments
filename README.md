@@ -4,7 +4,7 @@
 
 <br/>
 
-# <p align="center">CS3A Assignment Links</p>
+# <p align="center">CS2 Assignment Links</p>
 
 
 ## Labs
