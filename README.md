@@ -9,9 +9,12 @@
 
 ## Labs
 
-- [`00_lab_0`](https://classroom.github.com/a/kk1kb4Ne), [`basic_test.cpp`](basic_tests/00_lab_0/basic_test.cpp)<br />
+- [`00_lab_0`](assignments/00_lab_0/)
+
+
+## Chapter 1
 
 
 ## Final project
 
-- [`99_00_final_project`](https://classroom.github.com/a/rUUpsXPd)<br />
+- [`99_00_final_project`]()<br />
