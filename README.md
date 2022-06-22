@@ -10,10 +10,13 @@
 ## Labs
 
 - [00_lab_0](assignments/00_lab_0/)
+
+
+## Chapter 01
+
 - [00_01_hi_there](assignments/00_01_hi_there/)
+- [00_02_big_c](https://classroom.github.com/a/qgnR3S_V)
 
-
-## Chapter 1
 
 
 ## Final project
