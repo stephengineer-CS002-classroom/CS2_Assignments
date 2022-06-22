@@ -20,15 +20,23 @@ void basic_test(bool debug=false);
 
 int main()
 {
-    // TODO
-
-    // initialize string variable
-
-    // ask user to input
-
-    // output "Hi, there ... !"
-
-
+    int ex;
+    char ans;
+    do {
+        cout << "Which exercise? ";
+        cin >> ex;
+        if (ex == 1) {
+            // TODO: Exercise 1
+        } else if (ex == 2) {
+            // TODO: Exercise 2
+        } else if (ex == 3) {
+            // TODO: Exercise 3
+        } else {
+            cout << "There is no exercise: #" << ex << endl;
+        }
+        cout << "again? ";
+        cin >> ans;
+    } while (ans == 'y');
     return 0;
 }
 
@@ -45,7 +53,7 @@ int main()
 
 /*
 folder structure:
-00_01_hi_there
+02_01_math_variables
 ├── includes
 │   └── stub
 │       ├── stub.cpp
@@ -55,10 +63,22 @@ folder structure:
 
 Output:
 
-CS
-Hi, there CS !
-world
-Hi, there world !
-Prof
-Hi, there Prof !
+Which exercise? 1
+Enter the first integer: 10
+Enter the second integer: 25
+10 + 25 = 35
+10 * 25 = 250
+10 / 25 = 0
+10 % 25 = 10
+
+
+Which exercise? 2
+Enter six fp numbers on a single line, separated by spaces: 1.5 2.1 3.8 4.2 5.7 6.1
+Sum of 1.5 + 2.1 + 3.8 + 4.2 + 5.7 + 6.1 = 23.4
+Average = 3.9
+
+
+Which exercise? 3
+What is your age? 25
+Your target heart rate is between 117 and 146.25 bpm.
 */

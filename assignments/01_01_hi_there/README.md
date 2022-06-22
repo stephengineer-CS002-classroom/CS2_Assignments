@@ -1,6 +1,6 @@
-# 00_01_hi_there
+# 01_01_hi_there
 
-- Accept [00_01_hi_there](https://classroom.github.com/a/6us1p4ID)
+- Accept [01_01_hi_there](https://classroom.github.com/a/6us1p4ID)
 - Get [main.cpp](main.cpp)
 
 ## Project Description

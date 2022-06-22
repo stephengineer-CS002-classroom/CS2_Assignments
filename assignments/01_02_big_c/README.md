@@ -1,6 +1,6 @@
-# 00_02_big_c
+# 01_02_big_c
 
-- Accept [00_02_big_c](https://classroom.github.com/a/qgnR3S_V)
+- Accept [01_02_big_c](https://classroom.github.com/a/qgnR3S_V)
 - Get [main.cpp](main.cpp)
 
 ## Project Description

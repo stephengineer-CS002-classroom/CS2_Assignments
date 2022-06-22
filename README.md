@@ -14,12 +14,12 @@
 
 ## Chapter 01
 
-- [00_01_hi_there](assignments/00_01_hi_there/)
-- [00_02_big_c](assignments/00_02_big_c/)
+- [`01_01_hi_there`](assignments/01_01_hi_there/)
+- [`01_02_big_c`](assignments/01_02_big_c/)
 
 
 ## Chapter 02
-- [01_01_math_variables](assignments/01_01_math_variables/)
+- [`02_01_math_variables`](assignments/02_01_math_variables/)
 
 
 

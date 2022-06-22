@@ -45,7 +45,7 @@ int main()
 
 /*
 folder structure:
-00_lab_0
+01_02_big_c
 ├── includes
 │   └── stub
 │       ├── stub.cpp
