@@ -20,12 +20,11 @@ using namespace std;
 
 int main()
 {
-    // TODO
-    // initialize variable
+    // TODO: initialize variable
 
     char ans;
     do {
-        // code
+        // TODO: add code
         
     } while (ans == 'y');
 
