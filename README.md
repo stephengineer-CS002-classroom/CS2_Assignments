@@ -19,9 +19,10 @@
 
 
 ## Chapter 02
+
 - [`02_01_math_variables`](assignments/02_01_math_variables/)
 - [`02_02_arithmetic_operations`](assignments/02_02_arithmetic_operations/)
-
+- [`02_03_cereal_box`](assignments/02_03_cereal_box/)
 
 
 ## Final project
