@@ -22,18 +22,21 @@ int main()
 {
     int ex;
     char ans;
-    cout << "Which exercise? ";
-    cin >> ex;
-    if (ex == 1) {
-        // TODO: Exercise 1
-    } else if (ex == 2) {
-        // TODO: Exercise 2
-    } else if (ex == 3) {
-        // TODO: Exercise 3
-    } else {
-        cout << "There is no exercise: #" << ex << endl;
-    }
-
+    do {
+        cout << "Which exercise? ";
+        cin >> ex;
+        if (ex == 1) {
+            // TODO: Exercise 1
+        } else if (ex == 2) {
+            // TODO: Exercise 2
+        } else if (ex == 3) {
+            // TODO: Exercise 3
+        } else {
+            cout << "There is no exercise: #" << ex << endl;
+        }
+        cout << "again? ";
+        cin >> ans;
+    } while (ans == 'y');
     return 0;
 }
 
