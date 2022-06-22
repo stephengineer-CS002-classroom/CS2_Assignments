@@ -19,14 +19,3 @@ Convert from oz to tons
 Pay special attention to the format of the numbers in this project.
 
 Make sure to store a number of ounces in the metric tons (35273.92) in a const.
-
-### Example Run
-
-Make sure your program output looks exactly the same as this.
-
-```
-cereal box in oz: 1
-a 1.00 oz box of cereal is 0.0000283 tons
-it takes 35273.92 boxes to make up one metric ton
-again? n
-```

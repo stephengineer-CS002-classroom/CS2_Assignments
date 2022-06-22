@@ -59,16 +59,6 @@ Test Values (Single program execution per row)
 - (1x9 + 2x8 + 3x7 + 4x6 + 5x5 + 6x4 + 7x3 + 8x2 + 9x1) % 11 = 0
 - (1x0 + 2x4 + 3x7 + 4x1 + 5x4 + 6x7 + 7x0 + 8x6 + 9x3) % 11 = 5
 
-### Example Run
-
-Make sure your program output looks exactly the same as this.
-
-```
-Which exercise? 1
-Please enter the first 9 digits of the ISBN: 123456789
-Checksum: 10
-again? n
-```
 
 
 ## Exercise 2: Character arithmetic
@@ -86,16 +76,3 @@ The exercise: Ask the user to input a letter, and output the position of that l
 **Note**: you do NOT need to know the ASCII decimal values for the letters to do this exercise!!
 
 You only need to know that their values are all in sequence, as you would expect.  In fact, using the ASCII value, such as 97, 96, etc, will result in a zero.  
-
-### Example Run
-
-```
-Which exercise? 2
-Enter a character: b
-b is letter 2
-again? y
-Which exercise? 2
-Enter a character: z
-z is letter 26
-again? n
-```
