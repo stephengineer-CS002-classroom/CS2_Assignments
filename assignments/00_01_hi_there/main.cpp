@@ -54,8 +54,8 @@ folder structure:
 
 Output:
 
-CS 002
-Hi, there CS 002 !
+CS
+Hi, there CS !
 world
 Hi, there world !
 Prof
