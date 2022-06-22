@@ -47,7 +47,8 @@ int main()
         cout << "net pay:" << setw(18) << "$" << setw(7)  << net_pay << endl;
         */
 
-        
+        cout << "again? ";
+        cin >> ans;
     } while (ans == 'y');
 
     return 0;

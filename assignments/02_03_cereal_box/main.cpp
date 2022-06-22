@@ -26,6 +26,8 @@ int main()
     do {
         // TODO: add code
         
+        cout << "again? ";
+        cin >> ans;
     } while (ans == 'y');
 
     return 0;

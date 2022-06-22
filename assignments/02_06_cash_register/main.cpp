@@ -25,7 +25,7 @@ int main()
     char ans;
     do {
         // TODO: add code
-        
+
         cout << "again? ";
         cin >> ans;
     } while (ans == 'y');
@@ -46,7 +46,7 @@ int main()
 
 /*
 folder structure:
-02_04_pay_increase
+02_06_cash_register
 ├── includes
 │   └── stub
 │       ├── stub.cpp
@@ -56,11 +56,24 @@ folder structure:
 
 Output:
 
-   Annual salary: 100000
-      Old salary: 100000.00
-        Increase: 12.00%
-      new salary: 112000.00
-monthly increase: 1000.00
-           retro: 6000.00
+Enter purchase amount: 18.89
+Enter amount received: 20
+Total Change: $1.11
+
+dollars 1
+quarters 0
+dimes 1
+nickels 0
+pennies 1
+again? y
+Enter purchase amount: 25.56
+Enter amount received: 40
+Total Change: $14.44
+
+dollars 14
+quarters 1
+dimes 1
+nickels 1
+pennies 4
 again? n
 */
