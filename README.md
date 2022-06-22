@@ -9,7 +9,7 @@
 
 ## Labs
 
-- [00_lab_0](assignments/00_lab_0/)
+- [`00_lab_0`](assignments/00_lab_0/)
 
 
 ## Chapter 01
