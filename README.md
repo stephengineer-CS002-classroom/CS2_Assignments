@@ -24,6 +24,8 @@
 - [`02_02_arithmetic_operations`](assignments/02_02_arithmetic_operations/)
 - [`02_03_cereal_box`](assignments/02_03_cereal_box/)
 - [`02_04_pay_increase`](assignments/02_04_pay_increase/)
+- [`02_05_overtime`](assignments/02_05_overtime/)
+
 
 
 ## Final project
