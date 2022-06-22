@@ -19,14 +19,16 @@ For testing purposes, you have to output a newline after every user input (see e
 
 Your program should then output the sum, the product, the integer quotient, and the modulus in exactly the same format as the examples below. 
 
-### Output
+### Example Run
 ```
+Which exercise? 1
 Enter the first integer: 10
 Enter the second integer: 25
 10 + 25 = 35
 10 * 25 = 250
 10 / 25 = 0
 10 % 25 = 10
+again? n
 ```
 
 
@@ -40,12 +42,14 @@ Output the sum and the average.
 
 Notice that even though we divided the sum (which is a floating point number) by the count (an integer), the resulting average is floating point: when you mix the two types in an arithmetic expression, floating point (the more “precise” type) “wins”.
 
-### Output
+### Example Run
 
 ```
+Which exercise? 2
 Enter six fp numbers on a single line, separated by spaces: 1.5 2.1 3.8 4.2 5.7 6.1
 Sum of 1.5 + 2.1 + 3.8 + 4.2 + 5.7 + 6.1 = 23.4
 Average = 3.9
+again? n
 ```
 
 
