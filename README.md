@@ -15,7 +15,11 @@
 ## Chapter 01
 
 - [00_01_hi_there](assignments/00_01_hi_there/)
-- [00_02_big_c](https://classroom.github.com/a/qgnR3S_V)
+- [00_02_big_c](assignments/00_02_big_c/)
+
+
+## Chapter 02
+- [01_01_math_variables](assignments/01_01_math_variables/)
 
 
 

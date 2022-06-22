@@ -20,31 +20,32 @@ void basic_test(bool debug=false);
 
 int main()
 {
-  // TODO
+    // TODO
 
-  // initialize string variable
+    // initialize string variable
 
-  // ask user to input
+    // ask user to input
 
-  // output "Hi, there ... !"
+    // output "Hi, there ... !"
 
-  
-  return 0;
+
+    return 0;
 }
 
 
 // void basic_test(bool debug)
 // {
-//   if (stub()) {
-//     cout << "Passed!" << endl;
-//   } else {
-//     cout << "Failed!" << endl;
-//   }
+//     if (stub()) {
+//         cout << "Passed!" << endl;
+//     } else {
+//         cout << "Failed!" << endl;
+//     }
 // }
+
 
 /*
 folder structure:
-00_lab_0
+00_01_hi_there
 ├── includes
 │   └── stub
 │       ├── stub.cpp

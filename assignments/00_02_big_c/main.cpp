@@ -35,12 +35,13 @@ int main()
 
 // void basic_test(bool debug)
 // {
-//   if (stub()) {
-//     cout << "Passed!" << endl;
-//   } else {
-//     cout << "Failed!" << endl;
-//   }
+//     if (stub()) {
+//         cout << "Passed!" << endl;
+//     } else {
+//         cout << "Failed!" << endl;
+//     }
 // }
+
 
 /*
 folder structure:
