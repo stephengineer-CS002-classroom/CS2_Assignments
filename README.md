@@ -29,7 +29,8 @@
 - [`02_07_branches`](assignments/02_07_branches/)
 - [`02_08_room_capacity`](assignments/02_08_room_capacity/)
 - [`02_09_arabic_roman`](assignments/02_09_arabic_roman/)
-
+- [`02_10_rock_paper_scissor`](assignments/02_10_rock_paper_scissor/)
+- 
 
 ## Final project
 
