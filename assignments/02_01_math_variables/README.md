@@ -3,7 +3,7 @@
 - Accept [02_01_math_variables](https://classroom.github.com/a/4gEBkEq-)
 - Get [main.cpp](main.cpp)
 
-## Lab Objectives
+## Objectives
 
 To gain experience with
 - input

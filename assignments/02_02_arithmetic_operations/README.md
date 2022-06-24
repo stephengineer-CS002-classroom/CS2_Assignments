@@ -3,9 +3,10 @@
 - Accept [02_02_arithmetic_operations](https://classroom.github.com/a/pRSVQ2xq)
 - Get [main.cpp](main.cpp)
 
-## Lab Objectives
+## Objectives
 
 To gain experience with
+
 - utilizing various math functions
 - using the modulus operator
 - word problems

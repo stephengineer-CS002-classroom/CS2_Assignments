@@ -26,6 +26,7 @@
 - [`02_04_pay_increase`](assignments/02_04_pay_increase/)
 - [`02_05_overtime`](assignments/02_05_overtime/)
 - [`02_06_cash_register`](assignments/02_06_cash_register/)
+- [`02_07_branches`](assignments/02_07_branches/)
 
 
 ## Final project
