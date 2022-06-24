@@ -27,6 +27,7 @@
 - [`02_05_overtime`](assignments/02_05_overtime/)
 - [`02_06_cash_register`](assignments/02_06_cash_register/)
 - [`02_07_branches`](assignments/02_07_branches/)
+- [`02_08_room_capacity`](assignments/02_08_room_capacity/)
 
 
 ## Final project
