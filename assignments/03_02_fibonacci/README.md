@@ -18,6 +18,6 @@ I expect you to comment on every single line. Explain it so that a non-computer 
     - use setw(4) to space the numbers
     - list the numbers in one line inside a pair of square brackets.
 
-The Fibonacci number Fi is defined as follows. F0 is 1, F1 is 1, and Fi = Fi-1 + Fi-2
+The Fibonacci number Fi is defined as follows. $F_0$ is 1, $F_1$ is 1, and $F_i = F_{i-1} + F_{i-2}$
 
 i = 0, 1, 2, ... In other words, each number is the sum of the previous two numbers.

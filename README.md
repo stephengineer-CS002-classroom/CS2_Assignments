@@ -31,11 +31,14 @@
 - [`02_09_arabic_roman`](assignments/02_09_arabic_roman/)
 - [`02_10_rock_paper_scissor`](assignments/02_10_rock_paper_scissor/)
 
+
 ## Chapter 03
 
 - [`03_01_looping_bonanza`](assignments/03_01_looping_bonanza/)
 - [`03_02_fibonacci`](assignments/03_02_fibonacci/)
-- [`03_01_looping_bonanza`](assignments/03_01_looping_bonanza/)
+- [`03_03_e_x`](assignments/03_03_e_x/)
+- [`03_03_e_x`](assignments/03_03_e_x/)
+- 
 
 ## Final project
 
