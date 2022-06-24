@@ -27,15 +27,15 @@ Your goal is to build a simple menu system:
 
 Ask the user “What do you want to do tonight?”, with the options:
 
-1. Go to the movies  (Response: “I know just the movie to see!”)
-1. Eat out (Response: “Great! I’ve been wanting to try that new Tuvaluan restaurant!”)
-1. Hang out at the Mall (Response: “You bring the cash!”)
-1. Go watch the Dodgers (Response: “Take me out to the ball game …”)
+a. Go to the movies  (Response: “I know just the movie to see!”)
+b. Eat out  (Response: “Great! I’ve been wanting to try that new Tuvaluan restaurant!”)
+c. Hang out at the Mall  (Response: “You bring the cash!”)
+d. Go watch the Dodgers  (Response: “Take me out to the ball game”)
 
 Any other choice should get the response: “Nothing suits you, then? I guess we’ll just stay and program!”
 
 
-Your menu must be “user friendly” - i.e. it should understand either ‘a’ or ‘A’ as user input. Use compound boolean expressions to handle this.  DO NOT USE A SWITCH STATEMENT!!!
+Your menu must be "user friendly" - i.e. it should understand either 'a' or 'A' as user input. Use compound boolean expressions to handle this.  DO NOT USE A SWITCH STATEMENT!!!
 
 
 DO NOT copy and paste from assignment or any other fancy word editing program. Not all characters translate easily and sometimes there are hidden characters. This is especially true for characters like apostrophes.

@@ -33,24 +33,70 @@ int main()
 /*
 Output:
 
-Enter purchase amount: 18.89
-Enter amount received: 20
-Total Change: $1.11
-
-dollars 1
-quarters 0
-dimes 1
-nickels 0
-pennies 1
+Which exercise? 1
+Enter a number of seconds: 1234500
+There is 14 days in 1234500 seconds
 again? y
-Enter purchase amount: 25.56
-Enter amount received: 40
-Total Change: $14.44
-
-dollars 14
-quarters 1
-dimes 1
-nickels 1
-pennies 4
+Which exercise? 1
+Enter a number of seconds: 79
+There is 1 minute in 79 seconds
+again? y
+Which exercise? 1
+Enter a number of seconds: 36089
+There is 10 hours in 36089 seconds
+again? y
+Which exercise? 1
+Enter a number of seconds: 3608
+There is 1 hour in 3608 seconds
+again? y
+Which exercise? 2
+Exercise 2:
+What do you want to do tonight?
+a. Go to the movies
+b. Eat out
+c. Hang out at the Mall
+d. Go watch the Dodgers
+a
+I know just the movie to see!
+again? y
+Which exercise? 2
+Exercise 2:
+What do you want to do tonight?
+a. Go to the movies
+b. Eat out
+c. Hang out at the Mall
+d. Go watch the Dodgers
+B
+Great! I’ve been wanting to try that new Tuvaluan restaurant!
+again? y
+Which exercise? 2
+Exercise 2:
+What do you want to do tonight?
+a. Go to the movies
+b. Eat out
+c. Hang out at the Mall
+d. Go watch the Dodgers
+C
+You bring the cash!
+again? y
+Which exercise? 2
+Exercise 2:
+What do you want to do tonight?
+a. Go to the movies
+b. Eat out
+c. Hang out at the Mall
+d. Go watch the Dodgers
+D
+Take me out to the ball game
+again? y
+Which exercise? 2
+Exercise 2:
+What do you want to do tonight?
+a. Go to the movies
+b. Eat out
+c. Hang out at the Mall
+d. Go watch the Dodgers
+k
+Nothing suits you, then? I guess we’ll just stay and program!
 again? n
 */
