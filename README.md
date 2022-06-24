@@ -34,7 +34,8 @@
 ## Chapter 03
 
 - [`03_01_looping_bonanza`](assignments/03_01_looping_bonanza/)
-
+- [`03_02_fibonacci`](assignments/03_02_fibonacci/)
+- [`03_01_looping_bonanza`](assignments/03_01_looping_bonanza/)
 
 ## Final project
 
