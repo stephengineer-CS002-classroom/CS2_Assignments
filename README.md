@@ -37,7 +37,7 @@
 - [`03_01_looping_bonanza`](assignments/03_01_looping_bonanza/)
 - [`03_02_fibonacci`](assignments/03_02_fibonacci/)
 - [`03_03_e_x`](assignments/03_03_e_x/)
-- [`03_03_e_x`](assignments/03_03_e_x/)
+- [`03_04_pi`](assignments/03_04_pi/)
 - 
 
 ## Final project

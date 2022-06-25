@@ -28,18 +28,20 @@ int main()
 /*
 Output:
 
-x: 20
 iterations: 7
------ x: 20 -----
-1/1 + 20/1 + 400/2 + 8000/6 + 160000/24 + 3.2e+06/120 + 6.4e+07/720
+4 * [+1/1-1/3+1/5-1/7+1/9-1/11+1/13]
 after 7 iterations
-e^20 = 123776.55556
-cmath exp(20) : 485165195.40979
+Pi:   3.28374
+M_PI: 3.14159
+again? y
+iterations: 20
+after 20 iterations
+Pi:   3.09162
+M_PI: 3.14159
 again? y
 iterations: 100
------ x: 20 -----
 after 100 iterations
-e^20 = 485165195.40979
-cmath exp(20) : 485165195.40979
+Pi:   3.13159
+M_PI: 3.14159
 again? n
 */
