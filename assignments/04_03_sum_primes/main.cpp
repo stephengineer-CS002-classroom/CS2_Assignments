@@ -24,12 +24,12 @@ int main()
 {
     // BASIC TEST
     cout << "\n\n---------running basic_test---------\n\n";
-    basic_test(false);
+    basic_test();
     cout << "\n\n------------- D O N E --------------\n\n";
 
     // TEST B
     cout << "\n\n-----------running testB------------\n\n";
-    testB(false);
+    testB();
     cout << "\n\n------------- D O N E --------------\n\n";
 
     return 0;
