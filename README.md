@@ -42,6 +42,11 @@
 - [`03_06_blackjack`](assignments/03_06_blackjack/)
 
 
+## Chapter 04
+
+- [`04_01_mpg`](assignments/04_01_mpg/)
+- 
+
 ## Final project
 
 - [`99_00_final_project`]()<br />
