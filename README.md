@@ -46,7 +46,9 @@
 
 - [`04_01_mpg`](assignments/04_01_mpg/)
 - [`04_02_stock`](assignments/04_02_stock/)
+- [`04_03_sum_primes`](assignments/04_03_sum_primes/)
 - 
+
 
 ## Final project
 
