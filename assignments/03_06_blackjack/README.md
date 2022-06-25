@@ -1,14 +1,15 @@
-# 03_04_pi
+# 03_06_blackjack
 
-- Accept [03_04_pi](https://classroom.github.com/a/yPY0YqXC)
+- Accept [03_06_blackjack](https://classroom.github.com/a/LpbK60zi)
 - Get [main.cpp](main.cpp)
+
 
 ## Description
 
 This program will total a single Blackjack hand and determine when a hand is a winner or a bust. The user will input as many as five cards, ending the input by pressing the enter key. (see cin.get loop)
 
 
-## Three Blocks:
+## Three Blocks
 
 The program is composed of three main blocks within a repeat loop.
 
