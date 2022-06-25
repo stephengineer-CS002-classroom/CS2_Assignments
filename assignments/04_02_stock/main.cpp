@@ -39,18 +39,18 @@ int main()
 void basic_test(bool debug)
 {
     double single_price, hold_price;
-    int whole, nominator, denominator, number_of_share;
+    int whole, numerator, denominator, number_of_share;
     
     // Test 1
-    whole=2, nominator=1, denominator=4, number_of_share=1000;
-    single_price = frac_2_double(whole, nominator, denominator);
+    whole=2, numerator=1, denominator=4, number_of_share=1000;
+    single_price = frac_2_double(whole, numerator, denominator);
     hold_price = holding_price(single_price, number_of_share);
     cout << "single price: " << single_price << endl;
     cout << "hold price: " << hold_price << endl;
 
     // Test 2
-    whole=4, nominator=1, denominator=8, number_of_share=100;
-    single_price = frac_2_double(whole, nominator, denominator);
+    whole=4, numerator=1, denominator=8, number_of_share=100;
+    single_price = frac_2_double(whole, numerator, denominator);
     hold_price = holding_price(single_price, number_of_share);
     cout << "single price: " << single_price << endl;
     cout << "hold price: " << hold_price << endl;
