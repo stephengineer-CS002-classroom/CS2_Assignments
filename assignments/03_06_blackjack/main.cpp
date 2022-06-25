@@ -16,7 +16,6 @@ int main()
     char ans;
     do {
         // TODO: first block 
-        // while () { }
 
         // TODO: second block 
 
