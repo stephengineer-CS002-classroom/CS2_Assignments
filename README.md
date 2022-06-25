@@ -45,6 +45,7 @@
 ## Chapter 04
 
 - [`04_01_mpg`](assignments/04_01_mpg/)
+- [`04_02_stock`](assignments/04_02_stock/)
 - 
 
 ## Final project
