@@ -5,7 +5,7 @@
 
 ## Description
 
-Calculate $e^x$ = $\frac{1}{1} + \frac{x}{1*1} + \frac{x*x}{1*1*2} + \frac{x*x*x}{1*1*2*3} + ...$
+Calculate $e^x = \frac{1}{1} + \frac{x}{1 \times 1} + \frac{x \times x}{1 \times 1 \times 2} + \frac{x \times x \times x}{1 \times1 \times2 \times3} + \cdots$
 
 - Do NOT use the `cmath` library EXCEPT to verify the result of your calculations
 - Do NOT use `pow()` function
