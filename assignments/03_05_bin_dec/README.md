@@ -1,6 +1,6 @@
-# 03_04_pi
+# 03_05_bin_dec
 
-- Accept [03_04_pi](https://classroom.github.com/a/yPY0YqXC)
+- Accept [03_05_bin_dec](https://classroom.github.com/a/ZLU8lR8p)
 - Get [main.cpp](main.cpp)
 
 ## Description
