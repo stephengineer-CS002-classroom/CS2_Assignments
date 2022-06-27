@@ -58,6 +58,12 @@
 - [`05_03_date_lib`](assignments/05_03_date_lib/)
 
 
+## Chapter 10
+
+- [`10_01_point_class`](assignments/10_01_point_class/)
+- [`10_02_line_class`](assignments/10_02_line_class/)
+
+
 ## Final project
 
 - [`99_00_final_project`]()
