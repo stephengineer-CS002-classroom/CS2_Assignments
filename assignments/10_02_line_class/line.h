@@ -27,7 +27,7 @@ public:
 
     // Modifiers
     void SetA(double x1, double y1);
-    void SetB(double x2,double y2);
+    void SetB(double x2, double y2);
     
 private:
     // member variables
