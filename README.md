@@ -52,8 +52,10 @@
 
 
 ## Chapter 05
+
 - [`05_01_change`](assignments/05_01_change/)
 - [`05_02_unit_conversion`](assignments/05_02_unit_conversion/)
+- [`05_03_date_lib`](assignments/05_03_date_lib/)
 
 
 ## Final project
