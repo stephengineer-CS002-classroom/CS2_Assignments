@@ -64,6 +64,13 @@
 - [`10_02_line_class`](assignments/10_02_line_class/)
 
 
+## Chapter 06
+
+- [`06_01_simple_math`](assignments/06_01_simple_math/)
+- [`06_02_grades`](assignments/06_02_grades/)
+- [`06_03_popular_names`](assignments/06_02_grades/)
+
+
 ## Final project
 
 - [`99_00_final_project`]()
