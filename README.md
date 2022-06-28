@@ -71,6 +71,16 @@
 - [`06_03_popular_names`](assignments/06_03_popular_names/)
 
 
+## Chapter 07
+
+- [`07_01_array_functions`](assignments/07_01_array_functions/)
+- [`07_02_array_functions_application`](assignments/07_02_array_functions_application/)
+- [`07_03_frequency`](assignments/07_03_frequency/)
+
+
+## Chapter 08
+
+
 ## Final project
 
 - [`99_00_final_project`]()
