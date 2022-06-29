@@ -37,5 +37,5 @@ void delete_repeats(int a[], int& num_used);
 // swap values of a and b
 void swap(int& a, int& b);
 //sort a[] in ascending or descending order
-void sort(int a[], int num_used, bool ascending);
+void sort(int a[], int num_used, bool ascending=true);
 ```

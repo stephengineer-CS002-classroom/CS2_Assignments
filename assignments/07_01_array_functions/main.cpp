@@ -21,13 +21,7 @@ void basic_test(bool debug=false);
 void testB(bool debug=false);
 
 //print the array
-void print_array(int a[], int num_used)
-{
-    for (int i = 0; i < num_used; i++) {
-        cout << a[i] << " ";
-    }
-    cout << endl;
-}
+void print_array(int a[], int num_used);
 
 int main()
 {
@@ -108,6 +102,13 @@ void testB(bool debug)
     // TODO: add more test here
 }
 
+void print_array(int a[], int num_used)
+{
+    for (int i = 0; i < num_used; i++) {
+        cout << a[i] << " ";
+    }
+    cout << endl;
+}
 
 /*
 
