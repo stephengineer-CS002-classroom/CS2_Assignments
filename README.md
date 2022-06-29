@@ -76,9 +76,20 @@
 - [`07_01_array_functions`](assignments/07_01_array_functions/)
 - [`07_02_array_functions_application`](assignments/07_02_array_functions_application/)
 - [`07_03_frequency`](assignments/07_03_frequency/)
+- [`07_04`](assignments/07_04/)
+- [`07_05`](assignments/07_05/)
+- [`07_06`](assignments/07_06/)
+- [`07_07`](assignments/07_07/)
 
 
 ## Chapter 08
+
+- [`08_01`](assignments/08_01/)
+- [`08_02`](assignments/08_02/)
+- [`08_03`](assignments/08_03/)
+- [`08_04`](assignments/08_04/)
+- [`08_05`](assignments/08_05/)
+- [`08_06`](assignments/08_06/)
 
 
 ## Final project
