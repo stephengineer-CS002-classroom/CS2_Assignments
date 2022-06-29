@@ -50,6 +50,6 @@ Average = 3.9
 again? y
 Which exercise? 3
 What is your age? 25
-Your target heart rate is between 117 and 146.25 bpm.
+Your target heart rate is between 117.00 and 146.25 bpm.
 again? n
 */
