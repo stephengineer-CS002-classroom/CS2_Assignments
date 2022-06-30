@@ -77,9 +77,9 @@
 - [`07_02_array_functions_application`](assignments/07_02_array_functions_application/)
 - [`07_03_frequency`](assignments/07_03_frequency/)
 - [`07_04_matrix`](assignments/07_04_matrix/)
-- [`07_05`](assignments/07_05/)
-- [`07_06`](assignments/07_06/)
-- [`07_07`](assignments/07_07/)
+- [`07_05_2d_array_navigation`](assignments/07_05_2d_array_navigation)
+- [`07_06_game_of_life`](assignments/07_06_game_of_life/)
+- [`07_07_temperature_distribution`](assignments/07_07_temperature_distribution/)
 
 
 ## Chapter 08
