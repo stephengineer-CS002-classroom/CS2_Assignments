@@ -76,7 +76,7 @@
 - [`07_01_array_functions`](assignments/07_01_array_functions/)
 - [`07_02_array_functions_application`](assignments/07_02_array_functions_application/)
 - [`07_03_frequency`](assignments/07_03_frequency/)
-- [`07_04`](assignments/07_04/)
+- [`07_04_matrix`](assignments/07_04_matrix/)
 - [`07_05`](assignments/07_05/)
 - [`07_06`](assignments/07_06/)
 - [`07_07`](assignments/07_07/)

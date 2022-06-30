@@ -13,11 +13,9 @@ To gain experience with
 
 ## Exercise 1: Mathematical Operations (with integers)
 
-Write a program that accepts 2 integer values from the user, with the prompts shown.
+Write a program that accepts 2 integer values from the user.
 
-For testing purposes, you have to output a newline after every user input (see examples below)
-
-Your program should then output the sum, the product, the integer quotient, and the modulus in exactly the same format as the examples below. 
+Your program should then output the sum, the product, the integer quotient, and the modulus in exactly the same format as the examples. 
 
 
 ## Exercise 2: Mathematical Operations (with floating point)
@@ -36,6 +34,7 @@ Notice that even though we divided the sum (which is a floating point number) by
 There is a formula that will calculate your target heart rate zone for aerobic exercise:
 
 > Lower limit (bpm) = 60% of the difference between 220 and your age
+>
 > Upper limit (bpm) = 75% of the difference between 220 and your age
 
 
