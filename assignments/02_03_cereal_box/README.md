@@ -18,4 +18,6 @@ Convert from oz to tons
 
 Pay special attention to the format of the numbers in this project.
 
-Make sure to store a number of ounces in the metric tons (35273.92) in a const.
+Make sure to store a number of ounces in the metric tons (35273.92) in a const. `const double METRIC_TON = 35273.92;`
+
+1 metric ton = 35273.92 oz
