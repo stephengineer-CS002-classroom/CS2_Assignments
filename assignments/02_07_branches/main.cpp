@@ -67,7 +67,7 @@ b. Eat out
 c. Hang out at the Mall
 d. Go watch the Dodgers
 B
-Great! I’ve been wanting to try that new Tuvaluan restaurant!
+Great! I've been wanting to try that new Tuvaluan restaurant!
 again? y
 Which exercise? 2
 Exercise 2:
