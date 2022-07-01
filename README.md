@@ -84,12 +84,9 @@
 
 ## Chapter 08
 
-- [`08_01`](assignments/08_01/)
-- [`08_02`](assignments/08_02/)
-- [`08_03`](assignments/08_03/)
-- [`08_04`](assignments/08_04/)
-- [`08_05`](assignments/08_05/)
-- [`08_06`](assignments/08_06/)
+- [`08_01_cstring`](assignments/08_01_cstring/)
+- [`08_02_cstring_functions`](assignments/08_02_cstring_functions/)
+- [`08_03_add_numbers`](assignments/08_03_add_numbers/)
 
 
 ## Final project
