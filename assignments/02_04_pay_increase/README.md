@@ -11,7 +11,7 @@
 - print results
   - the amount of retroactive pay
   - new annual salary
-  - mew monthly salary
+  - new monthly salary
     
 ### Note
 

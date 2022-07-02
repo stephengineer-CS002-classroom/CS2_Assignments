@@ -2,7 +2,7 @@
 
 - Accept [08_01_cstring](https://classroom.github.com/a/E5XJrRn6)
 - Get [main.cpp](main.cpp)
-- Get [matrix.h](matrix.h)
+- Get [myCstrings.h](myCstrings.h)
 
 ## Functions
 
