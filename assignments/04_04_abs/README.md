@@ -12,13 +12,6 @@ The purpose is to understand that the compiler will call the appropriate functio
 - Declare following functions in `includes/abs/abs.h`
 - Implement following functions in `includes/abs/abs.cpp`
 
-```c++
-int Abs(int number);
-double Abs(double number);
-float Abs(float number);
-long Abs(long number);
-```
-
 
 ## TestB
 

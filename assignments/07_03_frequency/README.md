@@ -2,6 +2,7 @@
 
 - Accept [07_03_frequency](https://classroom.github.com/a/bbyAo7iM)
 - Get [main.cpp](main.cpp)
+- Get [frequency.h](frequency.h)
 
 
 ## Description
@@ -17,15 +18,6 @@ The output is to be a two-column list. The first column is the count of the numb
 
 You need initialize pass-by-ref variables (num_used and unique_num) before you use them.
 
-```c++
-// swap values of a and b
-void swap(int& a, int& b);
-// sort a[] and c[] in ascending or descending order respect to a[]
-void sort(int a[], int c[], int num_used, bool ascending=true);
-// count frequency table and modify original array
-void frequency(int a[], int c[], int num_used, int& unique_num);
-
-```
 
 ### Function frequency
 You can modify original array, so do not create a new array to hold items, you can use array c[] to hold counts of items.

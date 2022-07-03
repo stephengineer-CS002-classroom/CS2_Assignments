@@ -10,12 +10,6 @@
 - Declare following functions in `includes/max/max.h`
 - Implement following functions in `includes/max/max.cpp`
 
-```c++
-//maximum of two numbers
-int Max(int a, int b);
-//maximum of three numbers
-int Max(int a, int b, int c);
-```
 
 The Max function with three arguments will call the Max function with two arguments to do the heavy lifting. We do not want to be repeating the code. In other words, the `Max(a, b, c)` will call `Max(a, b)`. Please note: Max(a, b, c) contains no conditionals.
 

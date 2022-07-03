@@ -17,23 +17,6 @@ Rather than rewriting code to convert one unit to another multiple times, we wil
 
 Universal Conversion Function: Write a single function to convert any pairs of units of measurement to any other pairs of units, provided it is passed the necessary information to do the conversion. All four types of conversions must be handled by the single function.
 
-```c++
-/**
- * @brief Universal Conversion Function to convert any pairs of units of
- *        measurement to any other pairs of units, provided it is passed the
- *        necessary information to do the conversion
- * @param X unit pairs to be converted - left hand big units
- * @param x unit pairs to be converted - left hand small units
- * @param Y result of conversion - right hand big units
- * @param y result of conversion - right hand small units
- * @param xInX conversion factor for the left hand units.
- *             How many small unit in big unit on the left hand side.
- * @param yPERx conversion factor to convert the small unit from the left to the small unit on the right
- * @param yInY conversion factor for the right hand side units.
- *             How many small unit in the big unit on the right hand side
- */
-void Convert(int X, double x, int &Y, double &y, int xInX, double yPERx, int yInY);
-```
 
 ## Step 2
 
@@ -42,15 +25,6 @@ Write pairs of functions to convert:
 - feet and inches to meters and centimeters and vice versa
 - pounds and ounces to kilograms and grams and vice versa
 - liters and milliliters to gallons and ounces and vice versa
-
-```c++
-void FeetInches2MetersCentimeters(int feet, double inches, int &meters, double &cm);
-void MetersCentimeters2FeetInches(int meters, double cm, int &feet, double &inches);
-void PoundsOunces2KilogramsGrams(int pounds, double ounces, int &kilograms, double &grams);
-void KilogramsGrams2PoundsOunces(int kilograms, double grams, int &pounds, double &ounces);
-void LitersMilliliters2GallonsOunces(int liters, double mill, int &gallons, double &ounces);
-void GallonsOunces2LitersMilliliters(int gallons, double ounces, int &liters, double &mill);
-```
 
 ### Constants local to specific conversion functions
 

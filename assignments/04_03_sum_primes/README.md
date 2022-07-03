@@ -10,14 +10,6 @@
 - Declare following functions in `includes/sum_primes/sum_primes.h`
 - Implement following functions in `includes/sum_primes/sum_primes.cpp`
 
-```c++
-//Returns the sum of all digits
-//The parameter named number is the number on each digit
-int SumDigits(int number);
-//Returns true if the number is a prime number else false
-//The parameter named number is the number to be checked wether is prime
-bool isPrime(int number);
-```
 
 The `SumDigits` function takes in an integer parameter and computes and returns the sum of its digits. If the incoming integer is negative, then disregard the negative (and still compute the sum of the digits, as a positive result).
 

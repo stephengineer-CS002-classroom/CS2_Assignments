@@ -9,12 +9,6 @@
 
 Implement following functions in `includes/stock/stock.h`
 
-```c++
-// convert fraction to double for price
-double frac_2_double(int whole, int numerator, int denominator);
-// calculation total holding value
-double holding_price(double single_price, int number_of_shares);
-```
 
 The `fract_2_double` function convert the stock fraction to a double. It takes three arguments: `whole`, `numerator`, `denominator`, and return single stock price as double.
 
