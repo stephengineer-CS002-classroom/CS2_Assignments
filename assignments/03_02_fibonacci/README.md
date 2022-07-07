@@ -15,7 +15,7 @@ I expect you to comment on every single line. Explain it so that a non-computer 
 - Pay close attention to the output formatting:
     - commas between every two numbers 
     - no comma after the last number
-    - use setw(4) to space the numbers
+    - use `setw(4)` to space the numbers
     - list the numbers in one line inside a pair of square brackets.
 
 The Fibonacci number Fi is defined as follows. $F_0$ is 1, $F_1$ is 1, and $F_i = F_{i-1} + F_{i-2}$
