@@ -151,7 +151,7 @@ etc: 5
        403       195       598
 
 #13: First column:  3 to 28
-     Second column: multiples of 3 between3 to 28
+     Second column: multiples of 3 between 3 to 28
          3         3         6
          4         6        10
          5         9        14
