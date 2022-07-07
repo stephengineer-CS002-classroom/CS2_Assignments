@@ -181,8 +181,8 @@ etc: 5
 ------------------------------
        403       135       538
 
-#14: First column:  multiples of 4 between3 to 28
-     Second column: multiples of 3 between3 to 28
+#14: First column:  multiples of 4 between 3 to 28
+     Second column: multiples of 3 between 3 to 28
          4         3         7
          8         6        14
         12         9        21
