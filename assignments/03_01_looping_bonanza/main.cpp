@@ -44,7 +44,7 @@ etc: 5
 #4: Odd numbers between 3 and 28
 3 5 7 9 11 13 15 17 19 21 23 25 27 
 
-#5: Skip every two numbers from3 to 28
+#5: Skip every two numbers from 3 to 28
 3 4 X 6 7 X 9 10 X 12 13 X 15 16 X 18 19 X 21 22 X 24 25 X 27 28 
 
 #6: Multiples of 4 between 3 and 28
