@@ -7,7 +7,7 @@
 
 Calculate $e^x = \frac{1}{1} + \frac{x}{1 \times 1} + \frac{x \times x}{1 \times 1 \times 2} + \frac{x \times x \times x}{1 \times1 \times2 \times3} + \cdots$
 
-- Do NOT use the `cmath` library EXCEPT to verify the result of your calculations
+- Do NOT use the `cmath` library EXCEPT to verify the result of your calculations, `result = exp(x);`
 - Do NOT use `pow()` function
 - Use the values of the numerator and denominator of the previous term to calculate the numerator and denominator of the current term.
 - Ask the user to input the value of x. Then ask the user to input the number of iterations.

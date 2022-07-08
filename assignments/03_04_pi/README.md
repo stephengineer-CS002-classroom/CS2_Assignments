@@ -8,7 +8,7 @@
 Calculate $\pi$ = $4 * (\frac{1}{1} - \frac{1}{3} + \frac{1}{5} - \frac{1}{7} + \frac{1}{9} - \cdots)$
 
 - Do NOT use the `cmath` library EXCEPT to verify the result of your calculations
-    - verify the accuracy of your calculations by printing (and comparing) the constant `M_PI` is defined (for most compilers) in cmath.
+    - verify the accuracy of your calculations by printing (and comparing) the constant `M_PI` is defined (for most compilers) in cmath, `cout << "M_PI: " << M_PI << endl;`
 - Do NOT use `pow()` function
 - Use the values of the numerator and denominator of the previous term to calculate the numerator and denominator of the current term.
 - Ask the user to input the number of iterations.
