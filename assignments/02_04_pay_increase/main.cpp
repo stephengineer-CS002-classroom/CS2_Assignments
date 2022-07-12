@@ -34,5 +34,12 @@ Output:
       new salary: 112000.00
 monthly increase: 1000.00
            retro: 6000.00
+again? y
+   Annual salary: 12345
+      Old salary: 12345.00
+        Increase: 12.00%
+      new salary: 13826.40
+monthly increase: 123.45
+           retro: 740.70
 again? n
 */
