@@ -26,7 +26,7 @@ int date_subtract(int end_m, int end_d, int end_y, int start_m, int start_d, int
                                                             //return days of dateEnd - dateStart
 
 int year_size(int y);                                       //365 or 366 days
-void day_of_year_to_date(int &m, int &d, int y, int days);  //add days to m/d to get new date m/d
+void day_of_year_to_date(int &m, int &d, int y, int days);  //add days to 1/1/y to get new date m/d
 void day_to_date(int &m, int &d, int &y, int days);         //add days to 01/01/EPOCH to get new date m/d/y
 void date_add(int &m, int &d, int &y, int days);            //dateA + n days
 

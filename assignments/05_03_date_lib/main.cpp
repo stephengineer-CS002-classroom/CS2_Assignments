@@ -107,6 +107,7 @@ void basic_test(bool debug)
     
     // test day_of_year_to_date
     days = 200; // days to add for day_of_year_to_date should less than year size
+    m = 1, d = 1;
     cout << "After " << days << " days of ";
     date_output(m, d, y);
     day_of_year_to_date(m, d, y, days);
@@ -184,7 +185,7 @@ There are 7579 days from 02/29/2020 to 05/31/1999
 There are 366 days in 2000
 There are 365 days in 2022
 
-After 200 days of 02/29/2020 is 07/19/2020
+After 200 days of 01/01/2020 is 07/19/2020
 
 After 4321 days of 01/01/1970 is 10/31/1981
 
