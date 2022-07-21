@@ -23,11 +23,11 @@ int main()
 
         // TODO: print out results
 
+        // TODO: close file
+
         cout << "again? ";
         cin >> ans;
     } while (ans == 'y');
-
-    // TODO: close file
 
     return 0;
 }
