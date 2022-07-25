@@ -89,3 +89,36 @@ void display_two_array(int a[], int c[], int unique_num)
     }
     cout<<endl<<endl;
 }
+
+/*
+
+
+---------running basic_test---------
+
+Enter at most 100 numbers:
+1 3 1 5 7 1 4 1 5 2 1 2 1
+
+Frequency Table:
+Count   N       
+6       1       
+2       5       
+2       2       
+1       7       
+1       4       
+1       3       
+
+
+again? n
+
+
+------------- D O N E --------------
+
+
+
+-----------running testB------------
+
+
+
+------------- D O N E --------------
+
+*/
