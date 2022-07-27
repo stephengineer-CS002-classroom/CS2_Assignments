@@ -24,7 +24,7 @@ void testB(bool debug=false);
 void input_matrix(int a[][N], const int rows);
 //input matrix
 void print_matrix(int a[][N], const int rows);
-//print matrix
+//print matrix, setw(4) for each item
 
 
 int main()
