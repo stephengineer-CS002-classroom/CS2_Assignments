@@ -48,6 +48,7 @@ void basic_test(bool debug)
     int arr[CAPACITY], count[CAPACITY];
     int numUsed;   // total numbers in array
     int uniqueNum; // how many different number
+    string line;   // line of user input
     char ans;
 
     do {
@@ -68,6 +69,7 @@ void basic_test(bool debug)
 
         cout << "again? ";
         cin >> ans;
+        cin.ignore();
     } while (ans == 'y');
 }
 
