@@ -84,7 +84,6 @@
 
 - [`08_01_cstring`](assignments/08_01_cstring/)
 - [`08_02_cstring_functions`](assignments/08_02_cstring_functions/)
-- [`08_03_add_numbers`](assignments/08_03_add_numbers/)
 
 
 ## Final project
