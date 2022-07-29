@@ -39,7 +39,7 @@ void Reverse(char str[]);
 int ToInt(char str[], int pos=0);
 // Returns first int in str starting from a particular position
 // If there is not digit in str return -1
-// "ab987cd" -> 2 (position of first digit 9 is 2)
+// "ab987cd" -> 9 (digit 9 is the first digit in cstring)
 int AtoI(char str[]);
 // Converts array of digits to integer, assume str is digit cstring
 // "123" -> 123;
@@ -48,7 +48,7 @@ int CharToInt(char ch);
 // '0' -> 0; 'a' -> 10; otherwise return -1;
 char IntToChar(int num);
 // Converts an integer to character
-// 0 -> '0; 10 -> 'a'; otherwise return null character;
+// 0 -> '0'; 10 -> 'a'; otherwise return null character;
 void ToUpper(char str[]);
 // Converts the C string to uppercase.
 void ToLower(char str[]);
