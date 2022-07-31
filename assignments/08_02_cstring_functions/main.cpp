@@ -182,8 +182,9 @@ int main()
 
     // Test AtoI
     cout << "\nTesting AtoI...\n";
-    printf("My string is: %s \n", myString); // abcd54321defg
-    testResult = AtoI(myString);
+    char number[] = "1357";
+    printf("My number string is: %s \n", number); // 1357
+    testResult = AtoI(number);
     printf("Converts my string to integer: %i\n", testResult);
 
     // Test CharToInt
@@ -299,8 +300,8 @@ My string is: abcd54321defg
 First integer in my string: 5
 
 Testing AtoI...
-My string is: abcd54321defg 
-Converts my string to integer: -2091221770
+My number string is: 1357 
+Converts my string to integer: 1357
 
 Testing CharToInt...
 Converts "a" to integer: 10
