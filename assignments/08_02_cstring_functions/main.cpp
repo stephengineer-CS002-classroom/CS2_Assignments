@@ -134,7 +134,7 @@ int main()
     assert(testResult==9);
 
     // Test StrStr
-    char subString[] = "54321";
+    char subString[100] = "54321";
     cout << "\nTesting StrStr...\n";
     printf("My string: %s \n", myString); // abcd54321defg
     printf("Sub string: %s \n", subString); // 54321
@@ -208,6 +208,7 @@ int main()
 
 
 /*
+Welcome to myCstrings functions
 ===============================
 
 Testing StrLen...
